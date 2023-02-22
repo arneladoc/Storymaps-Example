@@ -144,16 +144,16 @@ a.source:visited {
 
 /* Storymap logo image above the title */
 #logo {
-  height: 150px;
-  line-height: 150px;
+  height: 30px;
+  line-height: 30px;
   text-align: center;
   padding: 10px;
   max-width: 100%;
 }
 
 #logo img {
-  max-height: 150px;
-  max-width: 150px;
+  max-height: 100%;
+  max-width: 100%;
   vertical-align: middle;
 }
 
